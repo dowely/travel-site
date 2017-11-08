@@ -1,0 +1,1 @@
+To jest przykładowy plik txt, w którym są nakreślone planowene zmiany w stopce strony internetowej foo bar. Lorem Ipsum voala!
